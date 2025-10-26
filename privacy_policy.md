@@ -1,153 +1,159 @@
-# Butterscotch AI Terms of Service
-## 1. INTRODUCTION
-Welcome to Butterscotch AI ("Butterscotch AI," "we," "us", or "our"). These Terms of Service (the "Terms" or "Agreement") govern your access to and use of:
+# Butterscotch AI Privacy Policy
+This Privacy Policy (“Policy”) describes how Butterscotch AI (“Butterscotch AI,” “we,” “us,” or “our”) collects, uses, discloses, and otherwise processes personal information relating to your access and use of our Android and iOS mobile applications, including lifelike AI Characters, chat-based AI features, real-time video calls, and any related digital or offline services that link to this Policy (collectively, the “Services”).
 
-The Butterscotch AI website (the "Website"),
-The Butterscotch AI mobile applications (each, an "App"), and
-Any content, services, or features made available by Butterscotch AI (collectively with the Website and App, the "Services").
-By accessing or using the Services in any manner, you agree to these Terms. If you do not agree to these Terms, or do not understand them, please refrain from using our Services.
+By accessing or using the Services, you agree to the practices described in this Policy. If you do not agree, you must not access or use the Services. Undefined capitalized terms used herein shall have the meaning set forth in the Butterscotch AI Terms of Service.
 
-###  1.1 About Butterscotch AI
-Butterscotch AI is a generative AI platform that may include text-based AI chat, image or video generation, real-time video calls, or other AI-driven features. We leverage third-party open-source AI models to deliver the outputs ("Outputs") based on your prompts and inputs ("Input").
+## 1. Introduction & Scope
+Overview. Butterscotch AI's Services include lifelike AI Characters, chat-based AI, and one-on-one real-time video call functionality. This Privacy Policy explains how we collect and process personal information through these features.
+Additional Notices. We may provide supplemental privacy notices for certain products or services (e.g., if biometric data is collected or for region-specific requirements). These notices should be read together with this Policy.
+Age Restrictions. The Services are not intended for individuals under 18. If you are not of the required legal age, please do not use our Services.
+## 2. Information We Collect
+We collect personal information directly from you, automatically when you use our Services, and from third parties, as outlined below.
 
-###  1.2 Relationship to Other Policies
-Our Privacy Policy explains how we collect and use personal data. Although it does not form part of these Terms, it is an important document that you should read. Additional service-specific terms, usage policies, or brand guidelines may also apply, and by using the Services, you agree to comply with them.
+### 2.1 Information You Provide Directly
+Account & Profile Information:
+Name, username, email address, password, or other identifiers you choose to share.
+User-Generated Content:
+Text prompts, images, audio/voice clips, or videos uploaded or created in the course of interacting with AI Characters or chat features.
+AI Character profiles you build and share with other users.
+Video calls: When you engage in real-time one-on-one video calls, we collect audio and video data from your device's camera and microphone (with your permission).
+Note: If we offer or enable any call recording features, we will notify you and request the necessary permissions (where required by law).
+Payment Information:
+We may collect minimal transaction data (e.g., purchase confirmations, transaction IDs) when you make in-app purchases via Google Play Store, Apple App Store, or Razorpay.
+Financial details (such as your credit card number) are typically collected directly by the app store providers or Razorpay, not by us.
+Communications & Support:
+When you contact us (e.g., via email or in-app support), we collect information about your request or inquiry.
+Sensitive Information: Please do not share sensitive personal information (e.g., health, religious beliefs, government ID numbers) unless strictly necessary. If you choose to include such data, you consent to its processing per this Policy.
 
-## 2. AGE REQUIREMENT AND ELIGIBILITY
-###  2.1 Minimum Age
-You must be at least 18 years old to use the Services. If you are under 18, you cannot register or use the Services under any circumstances. By creating an account or otherwise using the Services, you represent that you are 18 or older.
+### 2.2 Information We Collect Automatically
+We and our third-party service providers (e.g., analytics providers like Google Analytics for Firebase) may automatically collect certain information about your device and how you interact with our Android and iOS apps, including:
 
-###  2.2 Account Registration
-You must provide a valid email address (and any other requested information) to create an account.
-You are responsible for all actions taken under your account and must keep your credentials secure.
-You may not share your account credentials or create multiple accounts to circumvent usage limits.
+Device Information: Device model, operating system version, unique device identifiers (e.g., IDFA, Android Advertising ID), mobile network info.
+Usage Data: Pages/screens viewed, in-app features used, navigation paths, timestamps, crash reports, error logs.
+IP Address: For approximate location (city, state, or region).
+Cookies / SDKs: While cookies are typical in browser environments, our mobile apps may use equivalent technologies (like software development kits and device identifiers) to store or read data on your device for analytics, personalization, and security.
+### 2.3 Information from Third Parties
+Social Media or Third-Party Login: If you choose to link your Butterscotch AI account with a third-party service (e.g., Google, Apple), we receive basic profile info from that service, subject to the permissions you grant.
+App Stores & Payment Gateways: We receive limited data (purchase amount, transaction status, etc.) from Google Play Store, Apple App Store, or Razorpay.
+Referrals/Publicly Available Sources: We may collect information if you were referred by another user or if it's publicly available.
+## 3. How We Use Your Information
+We may use your personal information for the following purposes or as otherwise disclosed at the time of collection:
 
-## 3. CONTENT AND USAGE POLICY
-### 3.1 User Content ("Input" and "Output")
-"Input": Any text, prompts, images, or other materials you provide to the Services.
-"Output": Any response or content generated by Butterscotch AI's AI models based on your Input.
-You are responsible for any Input you submit, and the Output you choose to use, share, or disclose.
-### 3.2 Ownership of Content
-As between you and Butterscotch AI, you own your Input, and you own your Output to the extent permitted by law.
-Butterscotch AI assigns any of its rights in your Output to you, subject to your compliance with these Terms.
-Similarity of Outputs: Because AI-generated content is often probabilistic, similar or identical Outputs may be generated for other users. You have no exclusive rights to any particular Output.
-### 3.3 Prohibited Content & Activities
-While we value freedom of expression, certain uses pose risks of harm to you or others. You may not:
+Providing & Personalizing the Services
+Facilitate real-time video calls, AI chats, and lifelike Character interactions.
+Operate, maintain, and optimize the user experience (e.g., customizing AI responses).
+Account Management & Security
+Create and manage your account, authenticate logins, and keep the Services secure.
+Service Improvement & Analytics
+Analyze usage patterns, enhance our AI/machine learning models (often using aggregated or de-identified data).
+Monitor and fix technical issues.
+Payments & Purchases
+Track and manage in-app purchases.
+Communicate with you about transactions (e.g., confirmations, receipts).
+Communication
+Respond to support requests or feedback.
+Send important updates about new features or policy changes.
+Fraud Prevention & Legal Compliance
+Prevent, investigate, or manage fraudulent or unlawful activity.
+Comply with applicable laws, lawful requests, and legal processes (e.g., subpoenas).
+Protect our rights, privacy, safety, or property, and that of our affiliates and users.
+Business Transactions
+In the event of a merger, acquisition, or sale of assets, we may transfer your information, subject to confidentiality obligations.
+Consent & Other Purposes
+Where required, obtain your consent to use the data for specific reasons.
+Any additional purpose disclosed at the time of collection or otherwise compatible with the original purpose.
+We may anonymize or aggregate personal information so it no longer identifies you. We may use de-identified or aggregated data for research, analytics, and training our AI models.
 
-Explicit or Sexual Content with Minors: Create, share, or request content depicting or intended to depict minors in any mature, sexual, or exploitative context.
-Violent or Harassing Content: Use the Services to defraud, harass, bully, defame, threaten, or encourage violence or sexual crimes against any person or group.
-Self-Harm or Harm to Others: Use the Services to promote suicide, self-harm, or the creation/use of weapons to harm others or destroy property.
-Illegal or Unauthorized Conduct: Violate any applicable law or regulation (e.g., child exploitation, unauthorized intrusion, or property damage).
-Privacy Violations: Disclose or compromise another person's private data without their consent, or engage in doxing, stalking, etc.
-Malware or Disruption: Upload viruses or other malicious code, or circumvent any technical measures designed to enforce usage limits or security.
-Hate Speech: Generate or distribute content that demeans or incites violence against a protected group based on race, ethnicity, gender, religion, or other characteristics.
-Explicit Adult Content: While adult content may be permissible in certain contexts, you must ensure it does not violate local laws, depict minors, or facilitate non-consensual acts.
-### 3.4 Usage Limits
-Butterscotch AI may impose daily or monthly usage limits on text prompts, image prompts, or other activities. We reserve the right to modify these limits without notice.
+## 4. Real-Time Video Calls
+One-on-one video calls are a key feature of Butterscotch AI. When you initiate or receive a video call:
 
-### 3.5 Consequences of Violations
-We reserve the right to remove or suspend any content, or terminate or suspend your account, if we believe you have violated these Terms or pose a risk to others, the Services, or to Butterscotch AI.
+Access to Camera & Microphone: We will request permission to access your device's camera and microphone. You can grant or deny these permissions in your device's settings.
+Call Content: The audio and video streams are processed in real time to enable the call; we do not systematically record or store your video calls unless you explicitly consent to a recording feature (if offered).
+Metadata: We may log metadata (e.g., call duration, connection quality) to improve our service.
+Please be mindful of any personal information you share verbally or visually during a video call. If you do not wish to share certain information, do not display it or speak it on camera.
 
-## 4. SERVICE PLANS AND PAYMENT (IF APPLICABLE)
-### 4.1 Free Account
-We may offer a free tier with limited prompts or features.
-We reserve the right to change or discontinue free services at any time.
-### 4.2 Paid Subscriptions ("Pro Accounts")
-Some features or functionalities ("Enhancements") require a paid subscription.
-Fees and usage limits for Pro Accounts will be made clear before purchase.
-### 4.3 Billing and Renewal
-By subscribing, you authorize Butterscotch AI (or its third-party payment processor) to charge your provided payment method for initial and recurring fees.
-If we change subscription prices, we will provide at least 30 days notice, and any price change takes effect at the next renewal. If you disagree, you must cancel before the renewal.
-### 4.4 Cancellation and Refunds
-You can cancel your subscription any time, effective at the end of the current paid term.
-Payments are non-refundable, unless required by law.
-On cancellation, you maintain access to paid features until your paid term ends.
-## 5. ACCURACY AND RELIANCE ON AI OUTPUT
-### 5.1 Nature of AI
-The Services use open-source AI models, which may not produce reliably accurate, complete, or truthful content. Outputs may be incorrect, outdated, or offensive. You should not rely on Outputs as a sole source of factual information or professional advice.
+## 5. Cookies, SDKs & Similar Technologies
+Mobile Environments often rely on SDKs or unique device identifiers instead of cookies. We and our partners may use these technologies to:
 
-### 5.2 No Warranty on Output
-AI-generated content does not reflect Butterscotch AI's own views.
-You assume all risks associated with using or sharing AI-generated Outputs (e.g., compliance with laws, third-party rights).
-## 6. INTELLECTUAL PROPERTY
-### 6.1 Butterscotch AI Ownership
-We own and reserve all rights in and to the Services, including our trademarks, logos, brand elements, code, and associated intellectual property. You may only use our name or brand in compliance with our Brand Guidelines.
+Remember your preferences or login details.
+Analyze app performance and user interactions.
+Provide certain functionalities (e.g., push notifications, auto-login).
+You can manage or restrict these technologies through your device settings (e.g., disable ad personalization) or in-app privacy controls. Note that disabling certain features may limit functionality.
 
-### 6.2 Feedback
-If you provide suggestions or feedback to Butterscotch AI, you grant us a non-exclusive, royalty-free, worldwide, perpetual, irrevocable, sublicensable license to use those suggestions in any manner.
+## 6. When We Disclose Your Information
+We may disclose your personal information under these circumstances:
 
-## 7. DISCLAIMER OF WARRANTIES
-YOU EXPRESSLY UNDERSTAND AND AGREE THAT TO THE EXTENT PERMITTED BY LAW:
+Affiliates & Subsidiaries
+Within our corporate family for consistent service operations, product improvements, or research.
+Service Providers/Vendors
+Third parties assisting us with cloud hosting, data analysis, payment processing, AI technology, or customer support.
+Payment Processors: Google Play Store, Apple App Store, or Razorpay handle most payment details. We receive minimal data to confirm transactions.
+User-Generated Content
+Content you designate as “public” (e.g., publicly shared AI Characters) or chat in a group context may be visible to other users.
+Video calls are private by default unless you voluntarily invite a participant or consent to recording (if offered).
+Legal Obligations & Safety
+If required by law or necessary to protect our rights, property, or safety, or that of others (e.g., responding to subpoenas, court orders).
+Business Transactions
+In a merger, acquisition, financing, sale of assets, or bankruptcy. Your data may be transferred subject to confidentiality obligations.
+Consent or At Your Direction
+If you explicitly agree to share your data with a third party or direct us to do so.
+## 7. Your Choices & Rights
+### 7.1 Managing Your Account & Profile
+Update or delete certain personal information in your account settings.
+Deactivate your account by contacting us at support@butterscotchai.app.
+### 7.2 Notifications & Marketing
+Opt out of marketing emails by clicking “unsubscribe” in those emails.
+Push notifications can be managed in your device settings.
+### 7.3 Device Permissions
+Camera & Microphone: Adjust permissions in your Android/iOS settings if you don't want to grant access for video calls.
+Location & Other Permissions: Configure these in your device settings.
+### 7.4 Cookie/Tracking Controls
+Configure your mobile device or in-app settings to control how we use SDKs, analytics, or advertising tools.
+### 7.5 Access, Correction & Deletion
+Depending on your jurisdiction, you may have legal rights to request:
 
-THE SERVICES ARE PROVIDED "AS IS" AND "AS AVAILABLE".
-WE DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, AND ACCURACY OF CONTENT.
-BEZU AI DOES NOT WARRANT THAT (i) THE SERVICES WILL BE UNINTERRUPTED OR ERROR-FREE, (ii) ANY OUTPUT WILL BE ACCURATE, RELIABLE, OR FIT FOR YOUR NEEDS, OR (iii) THE SERVICES WILL BE SECURE OR FREE FROM MALICIOUS CODE.
-## 8. LIMITATION OF LIABILITY
-TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW:
+Access: A copy of personal data we hold.
+Correction: Updates to inaccurate data.
+Deletion: Erasure of certain data, subject to legal exceptions.
+Restriction: Limit processing of certain data.
+Portability: Receive data in a common electronic format.
+Objection: To processing for certain purposes.
+To exercise these rights, contact support@butterscotchai.app. We may need to verify your identity before fulfilling requests.
 
-NO INDIRECT DAMAGES: BEZU AI IS NOT LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES (E.G., LOST PROFITS, LOST DATA) ARISING OUT OF OR RELATED TO THE SERVICES OR THESE TERMS.
-CAP ON LIABILITY: BEZU AI'S TOTAL LIABILITY FOR ALL CLAIMS UNDER THESE TERMS SHALL NOT EXCEED THE GREATER OF $100 OR THE AMOUNT YOU PAID (IF ANY) IN THE TWELVE (12) MONTHS PRIOR TO THE EVENT GIVING RISE TO LIABILITY.
-ESSENTIAL PURPOSE: IF YOU ARE DISSATISFIED WITH THE SERVICES, YOUR SOLE REMEDY IS TO STOP USING THEM.
-## 9. INDEMNIFICATION
-If you are a business or organization, you agree to indemnify and hold harmless Butterscotch AI, its affiliates, employees, and agents from and against all claims, damages, liabilities, losses, and expenses (including reasonable attorneys' fees) arising out of or related to your (i) use of the Services, (ii) violation of these Terms, or (iii) infringement of any third-party rights.
+## 8. Regional Privacy Disclosures
+### 8.1 State Privacy Rights (U.S.)
+California: Residents may have rights under the California Consumer Privacy Act (“CCPA”), such as knowing the categories of personal info collected and requesting its deletion. California's “Shine the Light” law may also permit you to request info about data disclosed to third parties for direct marketing.
+Other States (e.g., Virginia, Colorado): May also provide rights to access, delete, or opt out of certain data uses.
+### 8.2 Notice to European Users (GDPR / UK GDPR)
+Controller: Butterscotch AI is the “data controller” for GDPR/UK GDPR purposes.
+Legal Bases: Contractual necessity, consent (where required), legitimate interests, and/or legal obligations.
+Your Rights: Access, rectification, erasure, restriction, portability, objection, and the right to lodge a complaint with a supervisory authority.
+### 8.3 International Data Transfers
+We may transfer personal information to the United States or other countries where we or our service providers operate. Where required by law, we use appropriate safeguards (e.g., standard contractual clauses) to ensure your data remains protected.
 
-## 10. SUSPENSION AND TERMINATION
-### 10.1 Termination by You
-You may deactivate your account at any time by ceasing to use the Services. If you have a paid subscription, it will remain in effect until the end of the paid term.
+## 9. Data Retention
+We keep personal information as long as necessary for the purposes described in this Policy, including:
 
-### 10.2 Termination by Butterscotch AI
-We may suspend or terminate your account if we believe you have violated these Terms, or if it is necessary to protect our users, the Services, or Butterscotch AI. We may also terminate free accounts that are inactive for over one (1) year, with 30 days notice.
+Providing and maintaining the Services (e.g., keeping chat histories for AI refinement).
+Complying with legal obligations.
+Resolving disputes.
+Enforcing agreements.
+User-Generated Content such as an AI Character that becomes popular may remain accessible to other users, even if you delete your account, to avoid impacting their experience. Please avoid submitting personal info in publicly shared Characters.
 
-## 11. DISPUTE RESOLUTION
-### 11.1 Informal Resolution
-If you have a dispute or concern, please contact us at support@butterscotchai.app. We prefer to resolve issues informally first. We each agree to attempt to resolve disputes in good faith before initiating formal legal action.
+We may retain aggregated or de-identified data indefinitely.
 
-### 11.2 Arbitration Agreement
-Except for claims that may be brought in small claims court, you and Butterscotch AI agree to resolve any dispute, claim, or controversy ("Dispute") arising out of or relating to these Terms or the Services through final and binding arbitration.
+## 10. Security Measures
+We maintain administrative, technical, and physical safeguards designed to protect personal information from loss, misuse, unauthorized access, disclosure, alteration, or destruction. However, no method of transmission over the internet or electronic storage is completely secure; we cannot guarantee absolute security.
 
-### 11.3 Class Action Waiver
-All disputes must be pursued individually, and not as part of any class or consolidated action. Neither party can act as a class representative or participate as a class member in any class, representative, or consolidated proceeding.
+## 11. Children's Privacy
+The Services are not intended for persons under 13 (or 16 in certain jurisdictions). If we learn we have collected personal information from a child under those ages without parental consent, we will promptly take steps to delete it in accordance with applicable law.
 
-### 11.4 Arbitration Rules
-Arbitration will be conducted by a neutral arbitrator under the rules of an established arbitration body (e.g., AAA or NAM). The arbitrator can award damages on an individual basis that a court could. The Federal Arbitration Act governs the interpretation and enforcement of this arbitration provision.
+## 12. Changes to This Privacy Policy
+We may revise this Policy to reflect changes in our practices or legal obligations. We will indicate the date of the most recent update at the top. If the changes materially affect your rights or how we process personal information, we will provide prominent notice (e.g., within the app or via email). By continuing to use the Services after updates are effective, you acknowledge and agree to the revised Policy.
 
-### 11.5 Opt-Out
-You may opt out of arbitration within 30 days of creating an account or the date these Terms first become effective for you, by sending a written notice to support@butterscotchai.app. If you opt out, you may pursue disputes in court.
+## 13. Contact Us
+If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact:
 
-### 11.6 Severability
-If a court finds any part of this arbitration provision invalid (other than the class action waiver), the remainder shall still apply. If the class action waiver is found unenforceable, the entire arbitration section is void.
-
-## 12. COPYRIGHT COMPLAINTS
-If you believe your copyright or other intellectual property rights have been infringed through the Services, please send a notice to:
-
-Butterscotch AI, Inc. Attn: DMCA Agent Email: support@butterscotchai.app
-Your notice should include:
-
-A statement that you are the owner or authorized to act on the owner's behalf,
-A description of the copyrighted work allegedly infringed,
-The specific location (URL) of the allegedly infringing material,
-Your contact information, and
-A statement under penalty of perjury that your claim is accurate and you are authorized to act.
-## 13. MISCELLANEOUS
-### 13.1 Governing Law
-These Terms are governed by the laws of Wyoming, without regard to conflict-of-law principles, except to the extent the Federal Arbitration Act applies.
-
-### 13.2 Assignment
-You may not assign your rights or obligations under these Terms without our written consent. We may freely assign or transfer these Terms.
-
-### 13.3 Entire Agreement
-These Terms (including any referenced policies) constitute the entire agreement between you and Butterscotch AI concerning the Services, superseding any prior agreements or understandings.
-
-### 13.4 Severability
-If any provision is held invalid, the rest remain in effect. If removing a provision would allow class or representative claims, the arbitration provision stands in full.
-
-### 13.5 No Waiver
-Any failure by Butterscotch AI to enforce a right or provision does not constitute a waiver of that right or provision.
-
-### 13.6 Changes to These Terms
-We may revise these Terms from time to time. We will post changes on our Website or within the App. Material changes generally become effective 14 days after posting. By continuing to use the Services, you accept the updated Terms.
-
-### 13.7 Contact Us
-If you have questions or concerns regarding these Terms, please contact us at:
-
-Butterscotch AI, Inc. Email: support@butterscotchai.app Website: https://www.butterscotchai.app
+Email: support@butterscotchai.app
+Website: www.butterscotchai.app
+We will do our best to address your inquiry promptly.
